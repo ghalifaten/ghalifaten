@@ -9,6 +9,7 @@
 ### 📫 How to reach me:
   - via email: gh.feten@gmail.com
   - on Linkedin: https://www.linkedin.com/in/fatenghali/
+  - or let's have a coffee chat!: https://calendly.com/gh-feten/30-min-interview
      
 <!--
 **ghalifaten/ghalifaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
